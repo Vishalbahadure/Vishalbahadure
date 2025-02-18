@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Vishalbahadure
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+.-### Hi there, I'm Vishal 👋  
+🔍 **Data Analyst | Python | SQL | Power BI | AI Enthusiast**  
+
+📊 **Interested in:** Data Visualization, Machine Learning, and Business Analytics  
+📚 **Currently Learning:** Advanced SQL & AI Applications in Big Data Analytics  
+🤝 **Looking to collaborate on:** Data-driven projects & dashboards  
+📫 **How to reach me:** [GitHub](https://github.com/Vishalbahadure)  
+💡 **Fun fact:** I love transforming raw data into meaningful insights!  
+
+🚀 _Turning numbers into knowledge!_  
 
 <!---
 Vishalbahadure/Vishalbahadure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
