@@ -5,6 +5,7 @@
 📚 **Currently Learning:** Advanced SQL & AI Applications in Big Data Analytics  
 🤝 **Looking to collaborate on:** Data-driven projects & dashboards  
 📫 **How to reach me:** vishalbahadure027@gmail.com
+
 💡 **Fun fact:** I love transforming raw data into meaningful insights!  
 
 🚀 _Turning numbers into knowledge!_  
